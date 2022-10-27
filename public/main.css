@@ -3875,8 +3875,8 @@ h2 {
     -ms-flex-pack: center;
     align-items: center;
     background: transparent;
-    background: radial-gradient(37.6% 64.15% at 50%, at 50%, transparent 0, #00001f 100%);
-    background: radial-gradient(37.6% 64.15% at 50% 50%, transparent 0, #00001f 100%);
+    background: radial-gradient(37.6% 64.15% at 50%, at 50%, #000000 0, #00001f 100%);
+    background: radial-gradient(37.6% 64.15% at 50% 50%, #000000 0, #00001f 100%);
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -3890,7 +3890,7 @@ h2 {
 }
 
 .Loader-module__animWrapper--BFRq8 {
-    width: 10rem
+    width: 0rem
 }
 
 .PopinTuto-module__root--lhueF {
