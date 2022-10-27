@@ -874,7 +874,7 @@ path {
 
 .MainButton-module__root-white--_i_p6 .MainButton-module__wrapper--_FSS6 {
     border: transparent;
-    color: #3f95f8
+    color: transparent
 }
 
 .MainButton-module__root-white--_i_p6 .MainButton-module__wrapper--_FSS6:before {
@@ -886,7 +886,7 @@ path {
 }
 
 .MainButton-module__root-transparent--_ZxXQ .MainButton-module__wrapper--_FSS6 {
-    color: #3f95f8
+    color: transparent
 }
 
 .MainButton-module__root-transparent--_ZxXQ .MainButton-module__wrapper--_FSS6:after {
@@ -894,7 +894,7 @@ path {
 }
 
 .MainButton-module__root-border-grey--j5nek .MainButton-module__wrapper--_FSS6 {
-    color: #3f95f8
+    color: transparent
 }
 
 .MainButton-module__root-border-grey--j5nek .MainButton-module__wrapper--_FSS6:after {
@@ -1304,7 +1304,7 @@ path {
 }
 
 .RoomPage-module__root--NNcjl .RoomPage-module__navButtonLabel--QpY4w {
-    color: #3f95f8;
+    color: transparent;
     font-size: 1.6rem;
     font-weight: 300;
     white-space: nowrap
@@ -1807,7 +1807,7 @@ path {
 }
 
 .RoomModal-module__progressBarShuttle--c4Vex {
-    background-color: #3f95f8;
+    background-color: transparent;
     height: 100%;
     width: 15%
 }
@@ -1849,7 +1849,7 @@ path {
 }
 
 .RoomModalSectionIntro-module__titleColor--nKanI {
-    color: #3f95f8
+    color: transparent
 }
 
 .RoomModalSectionIntro-module__subtitle--_0cFx {
@@ -1880,7 +1880,7 @@ path {
 
 .RoomModalSectionIntro-module__shareRowLabel--QSew0 {
     color: #121b22;
-    color: #3f95f8;
+    color: transparent;
     font-size: 1.5rem;
     font-weight: 400;
     line-height: 1.667em;
@@ -1932,7 +1932,7 @@ path {
 }
 
 .ArtistShareButton-module__shareIcon--oWRWg path {
-    fill: #3f95f8
+    fill: transparent
 }
 
 .ArtistShareButton-module__url--YZyAr {
@@ -1951,7 +1951,7 @@ path {
 }
 
 .SocialShareButton-module__root-white--_11A9 path {
-    fill: #3f95f8
+    fill: transparent
 }
 
 .SocialShareButton-module__root-blue--UOKYV path {
@@ -2025,7 +2025,7 @@ path {
 }
 
 .RoomModalSectionCollectibles-module__titleColor--Z_cLz {
-    color: #3f95f8
+    color: transparent
 }
 
 .RoomModalSectionCollectibles-module__sectionCollectiblesLeft--K4VFL {
@@ -2139,7 +2139,7 @@ path {
 }
 
 .RoomModalSectionBehind-module__titleColor--JMuTF {
-    color: #3f95f8
+    color: transparent
 }
 
 .RoomModalSectionBehind-module__subtitle--p0wkh {
@@ -2407,7 +2407,7 @@ path {
 }
 
 .PlayButton-module__icon--obPvL {
-    fill: #3f95f8;
+    fill: transparent;
     height: 1.4rem;
     position: absolute;
     -webkit-transition: opacity .3s cubic-bezier(.215, .61, .355, 1), -webkit-transform .3s cubic-bezier(.215, .61, .355, 1);
@@ -2459,7 +2459,7 @@ path {
 }
 
 .Shape-module__shape-blue--Mp0lS {
-    fill: #3f95f8
+    fill: transparent
 }
 
 .ShapeLayer-module__root--jtM4t {
@@ -2598,7 +2598,7 @@ path {
 }
 
 .ShapeLayer-module__root--jtM4t .ShapeLayer-module__colorLayer-blue--zTaMO {
-    background-color: #3f95f8
+    background-color: transparent
 }
 
 .ShapeLayer-module__root-hidden--tftM7 {
@@ -2797,7 +2797,7 @@ path {
 
 .LikeButton-module__button--jwOfG,
 .LikeButton-module__button--jwOfG:before {
-    background-color: #3f95f8;
+    background-color: transparent;
     border-radius: 100%
 }
 
@@ -2953,7 +2953,7 @@ path {
 }
 
 .RoomNavButton-module__root--Dsb6K .RoomNavButton-module__arrow--kJNoi {
-    stroke: #3f95f8;
+    stroke: transparent;
     fill: none;
     height: 1.6rem;
     left: calc(50% - .4rem);
@@ -3634,7 +3634,7 @@ h2 {
 }
 
 .AudioButton-module__icon--hPzrN path {
-    fill: #3f95f8
+    fill: transparent
 }
 
 .MenuSliderCursor-module__root--_51to {
@@ -3697,7 +3697,7 @@ h2 {
 }
 
 .MenuSliderCursor-module__cross--K5n_K span {
-    background-color: #3f95f8;
+    background-color: transparent;
     display: block;
     height: .2rem;
     -webkit-transform-origin: center;
@@ -3780,7 +3780,7 @@ h2 {
 }
 
 .AboutGalleryButton-module__about--zLfDU {
-    color: #3f95f8
+    color: transparent
 }
 
 .AboutGalleryButton-module__about--zLfDU,
@@ -3989,7 +3989,7 @@ h2 {
 .CookiesBanner {
     background-color: transparent;
     bottom: 0;
-    color: #3f95f8;
+    color: transparent;
     font-family: TT Ripple, sans-serif;
     font-size: 1rem;
     height: auto;
@@ -4037,12 +4037,12 @@ h2 {
 }
 
 .CookiesBanner_texts a {
-    color: #3f95f8;
+    color: transparent;
     text-decoration: underline
 }
 
 .CookiesBanner_more {
-    color: #3f95f8;
+    color: transparent;
     margin-left: .2rem
 }
 
