@@ -236,7 +236,7 @@ template {
 body,
 html {
     -ms-scroll-chaining: none;
-    background: #e3e5e6;
+    background: #00001f;
     font-family: sans-serif;
     font-family: TT Ripple, sans-serif;
     font-size: 62.5%;
@@ -275,7 +275,7 @@ a {
 }
 
 .App-module__bounceScrollLayer--wa_gF {
-    background-color: #e3e5e6;
+    background-color: #00001f;
     height: 100vh;
     left: 0;
     pointer-events: none;
@@ -431,8 +431,8 @@ a {
 }
 
 .MenuSliderRooms-module__background--qYFhM {
-    background: radial-gradient(37.6% 64.15% at 50%, at 50%, transparent 0, #e3e5e6 100%);
-    background: radial-gradient(37.6% 64.15% at 50% 50%, transparent 0, #e3e5e6 100%)
+    background: radial-gradient(37.6% 64.15% at 50%, at 50%, transparent 0, #00001f 100%);
+    background: radial-gradient(37.6% 64.15% at 50% 50%, transparent 0, #00001f 100%)
 }
 
 .MenuSliderRooms-module__background--qYFhM,
@@ -3055,8 +3055,8 @@ path {
 .AboutPage-module__root--vEAyl {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-    background: radial-gradient(37.6% 64.15% at 50%, at 50%, transparent 0, #e3e5e6 100%);
-    background: radial-gradient(37.6% 64.15% at 50% 50%, transparent 0, #e3e5e6 100%);
+    background: radial-gradient(37.6% 64.15% at 50%, at 50%, transparent 0, #00001f 100%);
+    background: radial-gradient(37.6% 64.15% at 50% 50%, transparent 0, #00001f 100%);
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -3088,8 +3088,8 @@ path {
 }
 
 .AboutPage-module__mobileTopGradient--zvKOu {
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(22.45%, #e3e5e6), color-stop(42.67%, hsla(200, 6%, 90%, 0)));
-    background: linear-gradient(180deg, #e3e5e6 22.45%, hsla(200, 6%, 90%, 0) 42.67%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(22.45%, #00001f), color-stop(42.67%, hsla(200, 6%, 90%, 0)));
+    background: linear-gradient(180deg, #00001f 22.45%, hsla(200, 6%, 90%, 0) 42.67%);
     height: 50vh;
     pointer-events: none;
     position: fixed;
@@ -3875,8 +3875,8 @@ h2 {
     -ms-flex-pack: center;
     align-items: center;
     background: transparent;
-    background: radial-gradient(37.6% 64.15% at 50%, at 50%, transparent 0, #e3e5e6 100%);
-    background: radial-gradient(37.6% 64.15% at 50% 50%, transparent 0, #e3e5e6 100%);
+    background: radial-gradient(37.6% 64.15% at 50%, at 50%, transparent 0, #00001f 100%);
+    background: radial-gradient(37.6% 64.15% at 50% 50%, transparent 0, #00001f 100%);
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
