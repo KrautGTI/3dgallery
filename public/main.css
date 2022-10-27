@@ -431,8 +431,8 @@ a {
 }
 
 .MenuSliderRooms-module__background--qYFhM {
-    background: radial-gradient(37.6% 64.15% at 50%, at 50%, #fff 0, #e3e5e6 100%);
-    background: radial-gradient(37.6% 64.15% at 50% 50%, #fff 0, #e3e5e6 100%)
+    background: radial-gradient(37.6% 64.15% at 50%, at 50%, transparent 0, #e3e5e6 100%);
+    background: radial-gradient(37.6% 64.15% at 50% 50%, transparent 0, #e3e5e6 100%)
 }
 
 .MenuSliderRooms-module__background--qYFhM,
@@ -808,7 +808,7 @@ a {
 }
 
 .ArrowButton-module__root-blue--K_uZ3 .ArrowButton-module__arrow--MPNRs path {
-    stroke: #fff
+    stroke: transparent
 }
 
 .ArrowButton-module__root-border-grey--QJ9YW .ArrowButton-module__arrow--MPNRs path,
@@ -861,7 +861,7 @@ path {
 }
 
 .MainButton-module__root-blue--rIXhv .MainButton-module__wrapper--_FSS6 {
-    color: #fff
+    color: transparent
 }
 
 .MainButton-module__root-blue--rIXhv .MainButton-module__wrapper--_FSS6:before {
@@ -878,7 +878,7 @@ path {
 }
 
 .MainButton-module__root-white--_i_p6 .MainButton-module__wrapper--_FSS6:before {
-    background: #fff
+    background: transparent
 }
 
 .MainButton-module__root-white--_i_p6 .MainButton-module__wrapper--_FSS6:after {
@@ -890,7 +890,7 @@ path {
 }
 
 .MainButton-module__root-transparent--_ZxXQ .MainButton-module__wrapper--_FSS6:after {
-    border: 2px solid #fff
+    border: 2px solid transparent
 }
 
 .MainButton-module__root-border-grey--j5nek .MainButton-module__wrapper--_FSS6 {
@@ -949,7 +949,7 @@ path {
 }
 
 .MainButton-module__root-transparent--_ZxXQ .MainButton-module__wrapper--_FSS6:before {
-    background: #fff
+    background: transparent
 }
 
 .MainButton-module__root-border-grey--j5nek .MainButton-module__wrapper--_FSS6:before {
@@ -1219,7 +1219,7 @@ path {
 }
 
 .CuratedMention-module__root_isDark--pchRd .CuratedMention-module__svg--hhv2m path {
-    fill: #fff
+    fill: transparent
 }
 
 .CuratedMention-module__wrapper--VXLcY {
@@ -1575,7 +1575,7 @@ path {
 .RoomPage-module__root_isDark--dei5M .RoomPage-module__artistName--DDzSg,
 .RoomPage-module__root_isDark--dei5M .RoomPage-module__artistNameAccent--LhHay,
 .RoomPage-module__root_isDark--dei5M .RoomPage-module__description--ioOeb {
-    color: #fff
+    color: transparent
 }
 
 .RoomModal-module__root--mF_wE {
@@ -1675,7 +1675,7 @@ path {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    background-color: #fff;
+    background-color: transparent;
     padding-bottom: 2rem;
     position: relative;
     z-index: 2
@@ -1955,7 +1955,7 @@ path {
 }
 
 .SocialShareButton-module__root-blue--UOKYV path {
-    fill: #fff
+    fill: transparent
 }
 
 .SocialShareButton-module__root-small--WAfJh {
@@ -2310,7 +2310,7 @@ path {
 }
 
 .PlayButton-module__root--HhXOv:before {
-    background-color: #fff;
+    background-color: transparent;
     border-radius: 100%;
     content: "";
     height: 99%;
@@ -2319,7 +2319,7 @@ path {
 }
 
 .PlayButton-module__root--HhXOv:hover .PlayButton-module__icon--obPvL {
-    fill: #fff
+    fill: transparent
 }
 
 .PlayButton-module__root--HhXOv:hover .PlayButton-module__icon--obPvL path,
@@ -2447,7 +2447,7 @@ path {
 }
 
 .Shape-module__shape-white--YxYP2 {
-    fill: #fff
+    fill: transparent
 }
 
 .Shape-module__shape-greyLight--iDJ_J {
@@ -2586,7 +2586,7 @@ path {
 
 .ShapeLayer-module__root--jtM4t .ShapeLayer-module__colorLayer--nKV5j,
 .ShapeLayer-module__root--jtM4t .ShapeLayer-module__colorLayer-white--_evL3 {
-    background-color: #fff
+    background-color: transparent
 }
 
 .ShapeLayer-module__root--jtM4t .ShapeLayer-module__colorLayer-greyLight--_8g3N {
@@ -2866,11 +2866,11 @@ path {
 }
 
 .LikeButton-module__icon--ff2k1 path {
-    fill: #fff
+    fill: transparent
 }
 
 .LikeButton-module__count--yFAUD {
-    color: #fff;
+    color: transparent;
     font-size: 1.5rem;
     letter-spacing: -.05rem;
     line-height: 1;
@@ -2939,7 +2939,7 @@ path {
 }
 
 .RoomNavButton-module__root--Dsb6K .RoomNavButton-module__circle--DjfpC {
-    background-color: #fff;
+    background-color: transparent;
     border-radius: 5rem;
     height: 5rem;
     position: absolute;
@@ -2994,7 +2994,7 @@ path {
     -webkit-box-pack: center;
     -ms-flex-pack: center;
     align-items: center;
-    background-color: #fff;
+    background-color: transparent;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -3055,8 +3055,8 @@ path {
 .AboutPage-module__root--vEAyl {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-    background: radial-gradient(37.6% 64.15% at 50%, at 50%, #fff 0, #e3e5e6 100%);
-    background: radial-gradient(37.6% 64.15% at 50% 50%, #fff 0, #e3e5e6 100%);
+    background: radial-gradient(37.6% 64.15% at 50%, at 50%, transparent 0, #e3e5e6 100%);
+    background: radial-gradient(37.6% 64.15% at 50% 50%, transparent 0, #e3e5e6 100%);
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -3470,7 +3470,7 @@ path {
 
 .DesignSystem-module__root--sHHZ0,
 h2 {
-    color: #fff
+    color: transparent
 }
 
 h2 {
@@ -3602,7 +3602,7 @@ h2 {
 }
 
 .MenuButton-module__line--fYc1t {
-    background: #fff;
+    background: transparent;
     height: 2px;
     margin: 1.5px 0;
     width: 1.2rem
@@ -3665,7 +3665,7 @@ h2 {
 }
 
 .MenuSliderCursor-module__circle--U_PwO {
-    background-color: #fff;
+    background-color: transparent;
     border-radius: 100%;
     height: 5rem;
     -webkit-transform: scale(1) translate(-50%, -50%);
@@ -3790,7 +3790,7 @@ h2 {
 
 .Header-module__root_isDark--_WtqS .Header-module__logoTextWrapper--_6M1K,
 .Header-module__root_isDark--_WtqS .Header-module__logoTextWrapper--_6M1K strong {
-    color: #fff
+    color: transparent
 }
 
 .Header-module__logoTextWrapper--_6M1K,
@@ -3874,9 +3874,9 @@ h2 {
     -webkit-box-pack: center;
     -ms-flex-pack: center;
     align-items: center;
-    background: #fff;
-    background: radial-gradient(37.6% 64.15% at 50%, at 50%, #fff 0, #e3e5e6 100%);
-    background: radial-gradient(37.6% 64.15% at 50% 50%, #fff 0, #e3e5e6 100%);
+    background: transparent;
+    background: radial-gradient(37.6% 64.15% at 50%, at 50%, transparent 0, #e3e5e6 100%);
+    background: radial-gradient(37.6% 64.15% at 50% 50%, transparent 0, #e3e5e6 100%);
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -3987,7 +3987,7 @@ h2 {
 }
 
 .CookiesBanner {
-    background-color: #fff;
+    background-color: transparent;
     bottom: 0;
     color: #3f95f8;
     font-family: TT Ripple, sans-serif;
@@ -4080,7 +4080,7 @@ h2 {
 }
 
 .TurnScreen-module__root--JICfT {
-    background-color: #fff;
+    background-color: transparent;
     position: fixed;
     z-index: 500
 }
